@@ -1,3 +1,6 @@
+-- FedEx Logistics Optimization
+-- Tables: fedex_orders, fedex_shipments, fedex_routes, fedex_warehouses, fedex_delivery_agents
+-- shipments links to orders (order_id), routes (route_id), warehouses (warehouse_id), agents (agent_id)
 create database FedEx;
 use fedex;
 show tables;
