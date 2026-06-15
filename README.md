@@ -58,10 +58,10 @@ The query layer demonstrates:
 ## Repository Structure
 
 ```
-/sql            -- table creation, data load, and analysis queries
-/powerbi        -- .pbix file and exported visuals
-/data           -- sample/source datasets
-/screenshots    -- dashboard previews
+/images                          -- dashboard screenshots
+Fedex_logistics_optimization.sql -- schema, cleaning, and analysis queries
+logistics_optimization.pbix      -- Power BI report
+Presentation1.pptx               -- project presentation
 README.md
 ```
 
