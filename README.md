@@ -6,6 +6,24 @@ End-to-end logistics analytics project combining **SQL (MySQL)** for data modeli
 
 This project analyzes shipment, route, and delivery data to answer operational questions such as: which lanes are slowest, where delays concentrate, how cost scales with distance and weight, and which carriers and hubs underperform. SQL handles the heavy data transformation; Power BI delivers the visual layer.
 
+## Dashboard Screenshots
+
+### Actual vs Expected Transit Time
+![Actual Transit Time](images/Actual_transit_time.png)
+
+### Agent Performance
+![Agent Performance](images/Agent_performance.png)
+
+### Shipment Delay Analysis
+![Shipment Delay](images/Shipment_delay.png)
+
+### Traffic Delay
+![Traffic Delay](images/Traffic_delay.png)
+
+### Source Country Analysis
+![Source Country](images/source_country.png)
+
+
 ## Tech Stack
 
 - **MySQL Workbench** — data cleaning, joins, CTEs, window functions, conditional aggregation, date arithmetic
